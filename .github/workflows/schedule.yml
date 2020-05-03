@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 6f6dc8a489e90192e37c3d0a6b544508
-          LOCALE: ch-DE
+          LOCALE: en-US
